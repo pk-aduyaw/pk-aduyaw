@@ -51,6 +51,7 @@ ________________________________________________________________________________
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://www.streamlit.io/)
 
+<!--
 <h3>Others:</h3>
 
 [![Data Analysis Badge](https://img.shields.io/badge/Data_Analysis-DA4A91?style=for-the-badge)]()
@@ -68,7 +69,9 @@ ________________________________________________________________________________
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Team Collaboration Badge](https://img.shields.io/badge/Team_Collaboration-FF6F61?style=for-the-badge)]()
+-->
 
+</div>
 
 
 <!-- Social Media -->
@@ -81,7 +84,13 @@ ________________________________________________________________________________
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pkaduyaw)
 [![X](https://img.shields.io/badge/X-12100E?style=for-the-badge&logo=X&logoColor=white)](https://x.com/pk_aduyaw)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pkaduyaw@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+233245219250)
+
 
 </div>
 
-
+<div align='right'>
+  
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pk-aduyaw&show_icons=true&theme=radical&count_private=true)
+  
+</div>

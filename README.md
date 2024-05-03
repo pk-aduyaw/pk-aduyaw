@@ -1,3 +1,5 @@
+<!-- Introduction -->
+
 <div align='center'>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=45&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi+there%2C+I'm+Prince%F0%9F%A4%B4;and+I'm+a+Data+Person%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
@@ -67,36 +69,6 @@ ________________________________________________________________________________
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Team Collaboration Badge](https://img.shields.io/badge/Team_Collaboration-FF6F61?style=for-the-badge)]()
 
-
-  <div style="display: inline-block; width: 33%; vertical-align: top;">
-    <div align='left'>
-      - Data Analysis<br>
-      - Data Visualization<br>
-      - Data Manipulation<br>
-      - Data Cleaning<br>
-      - Statistical Analysis
-    </div>
-  </div>
-  
-  <div style="display: inline-block; width: 33%; vertical-align: top;">
-    <div align='center'>
-      - Machine Learning<br>
-      - Data Pipeline Development<br>
-      - Problem Solving<br>
-      - Critical Thinking<br>
-      - Domain Knowledge
-    </div>
-  </div>
-  
-  <div style="display: inline-block; width: 33%; vertical-align: top;">
-    <div align='right'>
-      - Scrum Methodologies<br>
-      - VS Code<br>
-      - Version Control (Git, GitHub)<br>
-      - Team Collaboration
-    </div>
-  </div>
-</div>
 
 
 <!-- Social Media -->

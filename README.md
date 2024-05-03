@@ -50,6 +50,9 @@ ________________________________________________________________________________
 [![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://www.streamlit.io/)
+[![VS Code Badge](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 <!--
 <h3>Others:</h3>
@@ -65,9 +68,6 @@ ________________________________________________________________________________
 [![Critical Thinking Badge](https://img.shields.io/badge/Critical_Thinking-FF5733?style=for-the-badge)]()
 [![Domain Knowledge Badge](https://img.shields.io/badge/Domain_Knowledge-28B463?style=for-the-badge)]()
 [![Scrum Methodologies Badge](https://img.shields.io/badge/Scrum_Methodologies-5DADE2?style=for-the-badge)]()
-[![VS Code Badge](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Team Collaboration Badge](https://img.shields.io/badge/Team_Collaboration-FF6F61?style=for-the-badge)]()
 -->
 
